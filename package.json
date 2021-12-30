@@ -2,6 +2,11 @@
     "name": "angular-extension-pack",
     "displayName": "angular-extension-pack",
     "description": "This is a pack of useful Angular Vs Code extensions.",
+    "icon": "https://i.imgur.com/J2hkqQm.png",
+    "author": {
+        "name": "RobotCherries",
+        "url": "https://github.com/RobotCherries"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
@@ -10,19 +15,15 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        // Support
         "angular.ng-template",
         "vismalietuva.vscode-angular-support",
         "dannymcgee.ng-html",
-        // Utilities
         "cyrilletuzi.angular-schematics",
         "gkalpak.aio-docs-utils",
         "nucllear.vscode-extension-auto-import",
         "erhise.vs-ng-quick-switch",
-        // Snippets
         "madhusuthanan.angular-unit-testing-snippets",
         "mikael.angular-beastcode",
-        // Shell
         "eg2.vscode-npm-script",
         "nrwl.angular-console"
     ]
