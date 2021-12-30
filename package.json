@@ -1,6 +1,6 @@
 {
     "name": "angular-extension-pack",
-    "displayName": "angular-extension-pack",
+    "displayName": "Angular Extension Pack",
     "description": "This is a pack of useful Angular Vs Code extensions.",
     "icon": "icon.png",
     "author": {
