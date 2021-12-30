@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "angular-extension-pack",
     "description": "This is a pack of useful Angular Vs Code extensions.",
-    "icon": "https://i.imgur.com/J2hkqQm.png",
+    "icon": "icon.png",
     "author": {
         "name": "RobotCherries",
         "url": "https://github.com/RobotCherries"
