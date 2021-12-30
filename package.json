@@ -7,6 +7,9 @@
         "name": "RobotCherries",
         "url": "https://github.com/RobotCherries"
     },
+    "repository": {
+        "url": "https://github.com/RobotCherries/angular-extension-pack"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
